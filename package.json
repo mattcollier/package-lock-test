@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mattcollier/package-lock-test/issues"
   },
-  "homepage": "https://github.com/mattcollier/package-lock-test#readme"
+  "homepage": "https://github.com/mattcollier/package-lock-test#readme",
+  "dependencies": {
+    "jsonld-signatures": "^3.3.0"
+  }
 }
