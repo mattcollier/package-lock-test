@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/mattcollier/package-lock-test#readme",
   "dependencies": {
+    "bedrock-runonce-test": "github:mattcollier/bedrock-runonce-test",
     "jsonld-signatures": "^4.0.0"
   }
 }
