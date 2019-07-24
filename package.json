@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/mattcollier/package-lock-test#readme",
   "dependencies": {
-    "jsonld-signatures": "^3.3.0"
+    "jsonld-signatures": "^4.0.0"
   }
 }
